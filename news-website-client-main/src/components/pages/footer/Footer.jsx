@@ -27,8 +27,7 @@ const Footer = () => {
 					</h1>
 				</a>
 				<p>
-					Volup amet magna clita tempor. Tempor sea eos vero ipsum. Lorem
-					lorem sit sed elitr sed kasd et
+				© 2025 Newsroom. All rights reserved.
 				</p>
 				<div className="d-flex justify-content-start mt-4">
 					<a
